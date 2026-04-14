@@ -167,9 +167,10 @@ vercel
 ---
 
 ## Screenshots
+<img width="1920" height="968" alt="Screenshot (1334)" src="https://github.com/user-attachments/assets/673db9b3-8dc0-4a87-b9eb-c608476886c3" />
+<img width="1920" height="964" alt="Screenshot (1335)" src="https://github.com/user-attachments/assets/8b4b049a-70a9-4270-b883-6a544f7448c0" />
 
-<img width="1920" height="1080" alt="Screenshot (1335)" src="https://github.com/user-attachments/assets/2f031526-ccea-45a7-92a4-ae671cd876f5" />
-<img width="1920" height="1080" alt="Screenshot (1334)" src="https://github.com/user-attachments/assets/14b2eca6-c55d-47e7-bee2-3269e53e7bd0" />
+
 
 
 ---
