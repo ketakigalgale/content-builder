@@ -3,10 +3,7 @@
 > **Frontend Developer Intern Assignment 3** — A drag-and-drop personal page builder built with React.
 
 ## Live Demo
-[Deploy on Vercel/Netlify — link here after deployment]
-
-## Repository
-[GitHub repo link here]
+https://content-builder-omega.vercel.app/
 
 ---
 
@@ -171,10 +168,11 @@ vercel
 
 ## Screenshots
 
-[Add screenshots here]
+<img width="1920" height="1080" alt="Screenshot (1335)" src="https://github.com/user-attachments/assets/2f031526-ccea-45a7-92a4-ae671cd876f5" />
+<img width="1920" height="1080" alt="Screenshot (1334)" src="https://github.com/user-attachments/assets/14b2eca6-c55d-47e7-bee2-3269e53e7bd0" />
+
 
 ---
 
 ## Author
-
-[Your Name] — Frontend Developer Intern Assignment
+Ketaki Galgale — Frontend Developer Intern Assignment
